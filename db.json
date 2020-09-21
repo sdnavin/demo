@@ -1,36 +1,50 @@
 {
-  "users": [
-    { "id": 1, "firstname": "Richard Navin","lastname":"SD", "email":"sdr.navin@gmail.com", },
-    { "id": 2, "firstname": "Mohamed","lastname":"Mansour", "email":"mohamed.mansour@leisure.qa", },
-    { "id": 2, "firstname": "Brhan","lastname":"Alhaffer", "email":"brhan.alhaffer@leisure.qa", },
-  ],
-  "jobs": [{
-    "logo": "https://www.leisure.qa/assets/images/logo-with-slogan.png",
-    "jobRole": "UX Designer",
-    "jobLocation": "Doha, Qatar",
-    "company": "Leisure",
-    "roleType": "Freelance",
-    "salary": "10,000 QAR",
-    "jobDescription": "<b>Advance your career at Acima Credit.</b><br/>This designer position is a great opportunity for networking, collaborating with teams on cutting edge projects, and to gain experience at the fastest growing company in Utah. <br/>You will design features for a company that runs multiple fintech products for users nationwide.These products impact user - run small businesses across the US and their thousands of customers.<br/>Your duties as a designer will include: Brainstorming and ideation sessions for complex and meaningful problems Working with departments that include data scientists, product managers, operations, and engineering Designing and iterating prototypes. Occasional client interaction and interviews About Acima Acima Credit(Acima) based in Sandy, Utah is a young and dynamic leasing company that provides consumers financing options for life necessities that otherwise would not be available to them.We help with financing options from tires / wheels to furniture and appliances.Acima blends the use of innovative online technology with a fast and easy application process for thousands of retailers nationwide.Customers love us because we make the impossible possible.Retailers love us because we make it easy for them. Benefits and Perks Acima understands that employment is the sum of many parts.Our compensation is very competitive.Our total benefits round out what we feel is a complete package: Medical insurance Dental plans Vision plans Supplemental insurance(long - term / short - term disability, life insurance, etc.) Health Savings Account(HSA) with Company Match Company paid holidays. Paid time off(PTO).<br/> Mileage reimbursement. <br/>Employee referral bonus program. After 90 days, you’ ll have access to our 401(k) plan. <br/>Compensation Salary to be determined based on experience Requirements Sketch proficiency, <br/>Prototyping tools such as Invision(preferred), Principle, Studio, etc. UI / UX experience.<br/> Superior organizational skills and sharp attention to details and consistency.<br/> Strong communication and interpersonal skills.<br/> Self - driven,<br/> able to positively receive feedback, able to work independently as well as follow creative direction,<br/> Nice to have experience:<br/> copywriting,<br/> illustration,<br/> photo editing,<br/> digital art "
-},
-{
-    "logo": "https://www.leisure.qa/assets/images/logo-with-slogan.png",
-    "jobRole": "Php Developer",
-    "jobLocation": "Doha, Qatar",
-    "company": "Leisure",
-    "roleType": "Freelance",
-    "salary": "11,000 QAR",
-    "jobDescription": "We provide ongoing education through numerous channels and are a leading manufacturer, distributor, and retailer of health and wellness products. We are seeking a motivated and experienced PHP Developer to support the data management needs of the Global Healing team.The goals of this new position will be to design and develop our data warehouse, connect to required data sources via API or other means, implement tools for reporting and data intelligence, create reports as needed, and continue to enhance and manage the data solution as the company grows and changes. Responsibilities Create wireframes from conception to implementation and design and improve user interfaces of database hub. Design, develop, and test web - based applications. Develop database schema changes to support new features. Maintain the Git - Hub repository Responsible for project life cycle, analysis, design, development, implementation, support, and enhancement. Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications. Prepare and maintain all applications utilizing standard development tools. Refactor, optimize and improve the existing codebase for maintenance and scale. Use test driven development and acceptance tests to ensure feature quality. Document the development process, architecture, and standard components. Keep abreast of new trends and best practices in web development. Requirements Bachelor 's degree in Computer Science or Related Field. Minimum 3 years PHP web development experience Skilled in UI Development technologies such as HTML, CSS, JSON and API usage. Experience in MySQL Database design and management. Experience developing and consuming Restful APIs. Experience with PHP Composer. Understanding of general programming best practices. Accountable for Laravel 5 framework & PHP 7.2 + initiatives / websites. Experience working with Javascript, vue.js jQuery, Ability to create, schedule, and manage cron jobs Strong capabilities in both front - end and back - end web - development Excellent Web UI skills with a special focus on standards compliance and usability Excellent verbal and written communication skills Benefits Paid Time Off(PTO); Company covered health, dental, vision, and life insurance; Allowances for gym, continuing education, preventative care and other reimbursements; Employee store credit; Company sponsored events; Fun team - building activities."
-},
-{
-    "logo": "https://www.leisure.qa/assets/images/logo-with-slogan.png",
-    "jobRole": ".Net Developer",
-    "jobLocation": "Doha, Qatar",
-    "company": "Leisure",
-    "roleType": "Permanent",
-    "salary": "15,000 QAR",
-    "jobDescription": "We provide ongoing education through numerous channels and are a leading manufacturer, distributor, and retailer of health and wellness products. We are seeking a motivated and experienced PHP Developer to support the data management needs of the Global Healing team.The goals of this new position will be to design and develop our data warehouse, connect to required data sources via API or other means, implement tools for reporting and data intelligence, create reports as needed, and continue to enhance and manage the data solution as the company grows and changes. Responsibilities Create wireframes from conception to implementation and design and improve user interfaces of database hub. Design, develop, and test web - based applications. Develop database schema changes to support new features. Maintain the Git - Hub repository Responsible for project life cycle, analysis, design, development, implementation, support, and enhancement. Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications. Prepare and maintain all applications utilizing standard development tools. Refactor, optimize and improve the existing codebase for maintenance and scale. Use test driven development and acceptance tests to ensure feature quality. Document the development process, architecture, and standard components. Keep abreast of new trends and best practices in web development. Requirements Bachelor 's degree in Computer Science or Related Field. Minimum 3 years PHP web development experience Skilled in UI Development technologies such as HTML, CSS, JSON and API usage. Experience in MySQL Database design and management. Experience developing and consuming Restful APIs. Experience with PHP Composer. Understanding of general programming best practices. Accountable for Laravel 5 framework & PHP 7.2 + initiatives / websites. Experience working with Javascript, vue.js jQuery, Ability to create, schedule, and manage cron jobs Strong capabilities in both front - end and back - end web - development Excellent Web UI skills with a special focus on standards compliance and usability Excellent verbal and written communication skills Benefits Paid Time Off(PTO); Company covered health, dental, vision, and life insurance; Allowances for gym, continuing education, preventative care and other reimbursements; Employee store credit; Company sponsored events; Fun team - building activities."
+	"users": [{
+			"id": 1,
+			"firstname": "Richard Navin",
+			"lastname": "SD",
+			"email": "sdr.navin@gmail.com"
+		},
+		{
+			"id": 2,
+			"firstname": "Mohamed",
+			"lastname": "Mansour",
+			"email": "mohamed.mansour@leisure.qa"
+		},
+		{
+			"id": 2,
+			"firstname": "Brhan",
+			"lastname": "Alhaffer",
+			"email": "brhan.alhaffer@leisure.qa"
+		}
+	],
+	"jobs": [{
+			"logo": "https://www.leisure.qa/assets/images/logo-with-slogan.png",
+			"jobRole": "UX Designer",
+			"jobLocation": "Doha, Qatar",
+			"company": "Leisure",
+			"roleType": "Freelance",
+			"salary": "10,000 QAR",
+			"jobDescription": "<b>Advance your career at Acima Credit.</b><br/>This designer position is a great opportunity for networking, collaborating with teams on cutting edge projects, and to gain experience at the fastest growing company in Utah. <br/>You will design features for a company that runs multiple fintech products for users nationwide.These products impact user - run small businesses across the US and their thousands of customers.<br/>Your duties as a designer will include: Brainstorming and ideation sessions for complex and meaningful problems Working with departments that include data scientists, product managers, operations, and engineering Designing and iterating prototypes. Occasional client interaction and interviews About Acima Acima Credit(Acima) based in Sandy, Utah is a young and dynamic leasing company that provides consumers financing options for life necessities that otherwise would not be available to them.We help with financing options from tires / wheels to furniture and appliances.Acima blends the use of innovative online technology with a fast and easy application process for thousands of retailers nationwide.Customers love us because we make the impossible possible.Retailers love us because we make it easy for them. Benefits and Perks Acima understands that employment is the sum of many parts.Our compensation is very competitive.Our total benefits round out what we feel is a complete package: Medical insurance Dental plans Vision plans Supplemental insurance(long - term / short - term disability, life insurance, etc.) Health Savings Account(HSA) with Company Match Company paid holidays. Paid time off(PTO).<br/> Mileage reimbursement. <br/>Employee referral bonus program. After 90 days, you’ ll have access to our 401(k) plan. <br/>Compensation Salary to be determined based on experience Requirements Sketch proficiency, <br/>Prototyping tools such as Invision(preferred), Principle, Studio, etc. UI / UX experience.<br/> Superior organizational skills and sharp attention to details and consistency.<br/> Strong communication and interpersonal skills.<br/> Self - driven,<br/> able to positively receive feedback, able to work independently as well as follow creative direction,<br/> Nice to have experience:<br/> copywriting,<br/> illustration,<br/> photo editing,<br/> digital art "
+		},
+		{
+			"logo": "https://www.leisure.qa/assets/images/logo-with-slogan.png",
+			"jobRole": "Php Developer",
+			"jobLocation": "Doha, Qatar",
+			"company": "Leisure",
+			"roleType": "Freelance",
+			"salary": "11,000 QAR",
+			"jobDescription": "We provide ongoing education through numerous channels and are a leading manufacturer, distributor, and retailer of health and wellness products. We are seeking a motivated and experienced PHP Developer to support the data management needs of the Global Healing team.The goals of this new position will be to design and develop our data warehouse, connect to required data sources via API or other means, implement tools for reporting and data intelligence, create reports as needed, and continue to enhance and manage the data solution as the company grows and changes. Responsibilities Create wireframes from conception to implementation and design and improve user interfaces of database hub. Design, develop, and test web - based applications. Develop database schema changes to support new features. Maintain the Git - Hub repository Responsible for project life cycle, analysis, design, development, implementation, support, and enhancement. Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications. Prepare and maintain all applications utilizing standard development tools. Refactor, optimize and improve the existing codebase for maintenance and scale. Use test driven development and acceptance tests to ensure feature quality. Document the development process, architecture, and standard components. Keep abreast of new trends and best practices in web development. Requirements Bachelor 's degree in Computer Science or Related Field. Minimum 3 years PHP web development experience Skilled in UI Development technologies such as HTML, CSS, JSON and API usage. Experience in MySQL Database design and management. Experience developing and consuming Restful APIs. Experience with PHP Composer. Understanding of general programming best practices. Accountable for Laravel 5 framework & PHP 7.2 + initiatives / websites. Experience working with Javascript, vue.js jQuery, Ability to create, schedule, and manage cron jobs Strong capabilities in both front - end and back - end web - development Excellent Web UI skills with a special focus on standards compliance and usability Excellent verbal and written communication skills Benefits Paid Time Off(PTO); Company covered health, dental, vision, and life insurance; Allowances for gym, continuing education, preventative care and other reimbursements; Employee store credit; Company sponsored events; Fun team - building activities."
+		},
+		{
+			"logo": "https://www.leisure.qa/assets/images/logo-with-slogan.png",
+			"jobRole": ".Net Developer",
+			"jobLocation": "Doha, Qatar",
+			"company": "Leisure",
+			"roleType": "Permanent",
+			"salary": "15,000 QAR",
+			"jobDescription": "We provide ongoing education through numerous channels and are a leading manufacturer, distributor, and retailer of health and wellness products. We are seeking a motivated and experienced PHP Developer to support the data management needs of the Global Healing team.The goals of this new position will be to design and develop our data warehouse, connect to required data sources via API or other means, implement tools for reporting and data intelligence, create reports as needed, and continue to enhance and manage the data solution as the company grows and changes. Responsibilities Create wireframes from conception to implementation and design and improve user interfaces of database hub. Design, develop, and test web - based applications. Develop database schema changes to support new features. Maintain the Git - Hub repository Responsible for project life cycle, analysis, design, development, implementation, support, and enhancement. Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications. Prepare and maintain all applications utilizing standard development tools. Refactor, optimize and improve the existing codebase for maintenance and scale. Use test driven development and acceptance tests to ensure feature quality. Document the development process, architecture, and standard components. Keep abreast of new trends and best practices in web development. Requirements Bachelor 's degree in Computer Science or Related Field. Minimum 3 years PHP web development experience Skilled in UI Development technologies such as HTML, CSS, JSON and API usage. Experience in MySQL Database design and management. Experience developing and consuming Restful APIs. Experience with PHP Composer. Understanding of general programming best practices. Accountable for Laravel 5 framework & PHP 7.2 + initiatives / websites. Experience working with Javascript, vue.js jQuery, Ability to create, schedule, and manage cron jobs Strong capabilities in both front - end and back - end web - development Excellent Web UI skills with a special focus on standards compliance and usability Excellent verbal and written communication skills Benefits Paid Time Off(PTO); Company covered health, dental, vision, and life insurance; Allowances for gym, continuing education, preventative care and other reimbursements; Employee store credit; Company sponsored events; Fun team - building activities."
 
-}
-]
+		}
+	]
 }
